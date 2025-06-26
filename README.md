@@ -3,7 +3,8 @@
 - 🌱 I studied MSc. Informatik at Technical University of Munich (TUM)
 - 💞️ I’m looking to collaborate on creative projects involving app and web development  
 - 📫 How to reach me - Via e-mail
-- Tech Stack: NextJS, React, NodeJS + Express, Postgres/ MongoDB 
+- Tech Stack: NextJS, React, NodeJS + Express, Postgres/ MongoDB
+- Languages : Typescript, JS, Python 
 
 <!---
 devpool007/devpool007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
