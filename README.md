@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devpool007
+- 👋 Hi, I’m Devansh
 - 👀 I’m interested in Software Development and Full stack dev currently
 - 🌱 I studied MSc. Informatik at Technical University of Munich (TUM)
 - 💞️ I’m looking to collaborate on creative projects involving app and web development  
