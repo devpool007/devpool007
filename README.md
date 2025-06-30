@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on creative projects involving app and web development  
 - 📫 How to reach me - Via e-mail
 - Tech Stack: NextJS, React, NodeJS + Express, Postgres/ MongoDB
-- Languages : Typescript, JS, Python 
-
+- Languages : Typescript, JS, Python
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpool007)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 devpool007/devpool007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
