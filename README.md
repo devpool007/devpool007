@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devansh
 - 👀 I’m interested in Software Development and Full stack dev currently
 - 🌱 I studied MSc. Informatik at Technical University of Munich (TUM)
-- 💞️ I’m looking to collaborate on creative projects involving app and web development  
+- 💞️ I’m looking to collaborate on creative projects involving web development and AI or MCP 
 - 📫 How to reach me - Via e-mail
 - Tech Stack: NextJS, React, NodeJS + Express, Postgres/ MongoDB
 - Languages : Typescript, JS, Python
