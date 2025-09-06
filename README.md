@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devansh
 - 👀 I’m interested in Software Development and Full stack dev currently
-- 🌱 Check out my new website - https://www.gamez24.store/
+- 🌱 Check out my new website - https://www.gamez24.store/deals
 - 💞️ I’m looking to collaborate on creative projects involving web/mobile development and AI or MCP 
 - 📫 How to reach me - Via e-mail
 - Tech Stack: NextJS, React, NodeJS + Express, SwiftUI, Postgres/ MongoDB
