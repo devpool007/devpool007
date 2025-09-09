@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Devansh
 - 👀 I’m interested in Software Development and Full stack dev currently
 - 🌱 Check out my new website - https://www.gamez24.store/deals
-- 💞️ I’m looking to collaborate on creative projects involving web/mobile development and AI or MCP 
+- 💞️ I’m looking to collaborate on creative projects involving web development and AI
 - 📫 How to reach me - Via e-mail
-- Tech Stack: NextJS, React, NodeJS + Express, SwiftUI, Postgres/ MongoDB
-- Languages : Typescript, JS, Swift, Python
+- Tech Stack: NextJS, React, NodeJS, FastAPI, Postgres, MongoDB
+- Languages : Typescript, JS, Python, Java
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpool007)](https://github.com/anuraghazra/github-readme-stats)
 <!---
