@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creative projects involving web development and AI
 - 📫 How to reach me - Via e-mail
 - Tech Stack: NextJS, React, NodeJS, Spring, FastAPI, Postgres, MongoDB
-- Languages : Typescript, JS, Kotlin, Python, Java
+- Languages : Typescript, JS, Kotlin, Python
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpool007)](https://github.com/anuraghazra/github-readme-stats)
 <!---
